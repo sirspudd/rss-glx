@@ -21,7 +21,7 @@
 #ifndef IMPSURFACE_H
 #define IMPSURFACE_H
 
-
+#include <cstddef>
 #ifdef WIN32
 	#include <windows.h>
 #endif
